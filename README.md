@@ -123,8 +123,7 @@ empresa/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/empresa.git
-   cd empresa
+   https://github.com/Paulo-Dongosse/SISTEMA-PARA-PRODU-O-ESTOQUE-E-DISTRIBUI-O.git
    ```
 
 2. Compile o projeto:
