@@ -1,0 +1,28 @@
+C:\Users\CASA\Documents\projeto_pi\empresa\Artigo PI 2.docx
+C:\Users\CASA\Documents\projeto_pi\empresa\diagrama_de_caso_de_uso.jpg
+C:\Users\CASA\Documents\projeto_pi\empresa\diagrama_de_classe.jpg
+C:\Users\CASA\Documents\projeto_pi\empresa\estrutura.txt
+C:\Users\CASA\Documents\projeto_pi\empresa\pom.xml
+C:\Users\CASA\Documents\projeto_pi\empresa\SQL tabelas
+C:\Users\CASA\Documents\projeto_pi\empresa\src
+C:\Users\CASA\Documents\projeto_pi\empresa\SQL tabelas\As_procedures.sql
+C:\Users\CASA\Documents\projeto_pi\empresa\SQL tabelas\As_sequencias.sql
+C:\Users\CASA\Documents\projeto_pi\empresa\SQL tabelas\Tabelas_do_projeto_PI.sql
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main
+C:\Users\CASA\Documents\projeto_pi\empresa\src\test
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\cliente.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\ConexaoOracle.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\Empresa.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\fornecedor.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\funcionario.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\materiaPrima.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\pagamento.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\peca.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\pedido.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\pessoa.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\pessoaJuridica.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\transportadora.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\main\mycompany\empresa\vendedor.java
+C:\Users\CASA\Documents\projeto_pi\empresa\src\test\java
